@@ -15,7 +15,7 @@ Este é um projeto de um formulário de cadastro com design moderno e responsivo
 ## 🌐 Acesse o Projeto Online
 
 Você pode visualizar o formulário em funcionamento neste link:  
-👉  ![https://github.com/Gabriellrs.github.io/formularioResponsivo]
+👉 https://github.com/Gabriellrs.github.io/formularioResponsivo
 
 ## 📸 Preview
 
