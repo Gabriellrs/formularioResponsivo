@@ -14,5 +14,6 @@ Este é um projeto de um formulário de cadastro com design moderno e responsivo
 
 ## 📸 Preview
 
-![Preview do formulário](link-da-imagem)
+![image](https://github.com/user-attachments/assets/2b58f111-2e4a-460d-8c10-9b55eb874eeb)
+
 
